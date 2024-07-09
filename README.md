@@ -1,4 +1,4 @@
-El proyecto "Datificación del departamento de mantenimiento del Ayuntamiento de Canet d’en Berenguer mediante tecnología Low Code" esta compuesto por dos Apps:
+El proyecto "Datificación del departamento de mantenimiento del Ayuntamiento de Canet d’en Berenguer mediante tecnología Low Code", realizado como trabajo de final de grado del curso de adaptación al grado de ingeniería informática de la Universidad Internacional de la Rioja, esta compuesto por dos Apps:
 - Datifica Mantenimiento: herramienta para la gestión del departamento de mantenimiento cuyos usuarios son el departamento de administrativo, los jefes de equipo y el encargado general de mantenimiento.
     Datificamantenimiento_20240709202444.zip
 -  Datifica Mantenimiento Tareas: app para los operarios de la plantilla mediante la cual ver las tareas asignadas y registrar los avances.
